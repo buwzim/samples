@@ -15,7 +15,7 @@ const INDEX = `<!DOCTYPE html>
     <title>Powered By Paketo Buildpacks</title>
   </head>
   <body>
-    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.cloud13.ch/wp-content/uploads/2019/12/VMware_Tanzu_Logo.png"></img>
+    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://assets.uni-wuppertal.de/dev/relaunch-assets/Resources//Public/Images/logo_header_white.svg"></img>
   </body>
 </html>`
 
