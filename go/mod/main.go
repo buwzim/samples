@@ -14,9 +14,8 @@ const INDEX = `<!DOCTYPE html>
   <head>
     <title>Powered By Paketo Buildpacks</title>
   </head>
-  <body style="bgcolor:green">
-  <br>asfhafih<br>
-    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://assets.uni-wuppertal.de/dev/relaunch-assets/Resources//Public/Images/logo_header_white.svg"></img>
+  <body>
+    <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://www.mightycare.de/wp-content/uploads/2020/10/Logo.png"></img>
   </body>
 </html>`
 
